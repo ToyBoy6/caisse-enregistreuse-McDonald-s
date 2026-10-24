@@ -3,7 +3,7 @@ Ceci est une représentation bêta d'un logiciel style McDonald's®.
 # Merci de patienter : le code est en cours de transfert.
 # Lien public :
 Voici la version 1.0.0
-Mise à jour le 25/10/2026
+Mise à jour le 25/10/2026 à 0:47
 https://toyboy6.github.io/caisse-enregistreuse-McDonald-s/
 # Les modifications :
 - Pour
