@@ -7,7 +7,8 @@ https://toyboy6.github.io/caisse-enregistreuse-McDonald-s/
 # Les modifications :
 - Pour
 - le
-- moment,
+- moment
+- ,
 - pas
 - de
 - mise
