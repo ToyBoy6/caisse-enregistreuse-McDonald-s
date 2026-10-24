@@ -6,13 +6,4 @@ Voici la version 1.0.0
 Mise à jour le 25/10/2026 à 0:47
 https://toyboy6.github.io/caisse-enregistreuse-McDonald-s/
 # Les modifications :
-- Pour
-- le
-- moment
-- ,
-- pas
-- de
-- mise
-- à
-- jour
-- .
+- Creation du projet
