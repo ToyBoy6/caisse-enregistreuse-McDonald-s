@@ -1,9 +1,10 @@
 # caisse enregistreuse McDonald's®
 Ceci est une représentation bêta d'un logiciel style McDonald's®.
 # Merci de patienter : le code est en cours de transfert.
-# Lien public :
+# Lien public (ne sert à rien):
 Voici la version 1.0.0
 Mise à jour le 25/10/2026 à 0:47
 https://toyboy6.github.io/caisse-enregistreuse-McDonald-s/
 # Les modifications :
-- Creation du projet
+- Creation du projeta
+- Découverte que le lien ne servait à rien (pour le moment)
