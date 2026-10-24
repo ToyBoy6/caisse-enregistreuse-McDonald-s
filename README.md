@@ -5,7 +5,8 @@ Pour pouvoir se servir de la reproduction de la caisse (en un peu cliché), il b
 - Sur téléphone, ouvrez chrome, puis allez dans www.github.com
 - En haut à droite, appuyez sur les trois petits points, puis cochez le mode ordinateur.
 - Une fois chargé, ouvrez mon projet, puis cliquez sur le fichier "caisse.py".
-- Une fois ouvert, appuyez sur le petit logo de téléchargement, puis ouvrez le dans l'application 
+- Une fois ouvert, appuyez sur le petit logo de téléchargement, puis ouvrez le dans l'application Pydroid 3.
+- Puis profitez !
 # Lien public (ne sert à rien):
 Voici la version 1.1.0
 Mise à jour le 25/10/2026 à 1:35
