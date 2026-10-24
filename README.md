@@ -1,5 +1,5 @@
 # caisse enregistreuse McDonald's®
-Ceci est une représentation bêta d'un logiciel style McDonald's®. Comme il est bêta, il y aura des changements très souvent (après, ça dépend de moi, si je code ou pas)
+Ceci est une représentation bêta d'un logiciel style McDonald's®. Comme il est bêta, il y aura des changements très souvent (après, ça dépend de moi, si je code ou pas).
 # Comment accéder à la caisse McDonald's® ?
 A venir ! Dsl. Mais ça arrive dans maximum 10 minutes !
 # Lien public (ne sert à rien):
