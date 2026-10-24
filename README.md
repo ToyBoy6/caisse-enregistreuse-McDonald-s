@@ -3,10 +3,11 @@ Ceci est une représentation bêta d'un logiciel style McDonald's®. Comme il es
 
 # Comment accéder à la caisse McDonald's®  sur mobile ?
 Pour pouvoir se servir de la reproduction de la caisse (en un peu cliché), il vous suffit de suivre ces étapes :
-- Sur téléphone, ouvrez chrome, puis allez dans https://github.com/ToyBoy6/caisse-enregistreuse-McDonald-s
-- En haut à droite, appuyez sur les trois petits points, puis cochez le mode ordinateur.
+- Sur téléphone, ouvrez votre navigateur web, puis allez dans https://github.com/ToyBoy6/caisse-enregistreuse-McDonald-s
 - Une fois chargé, ouvrez le fichier "caisse.py".
-- Une fois ouvert, appuyez sur le petit logo de téléchargement, puis ouvrez le dans l'application Pydroid 3.
+- Une fois ouvert, appuyez sur les trois petits points. (image à venir...)
+- Ensuite, appuyez sur télécharger
+- Puis ouvrez le dans l'application Pydroid 3. (c'est l'une des meilleures, gratuit et sans pub gênant)
 - Puis profitez !
 
 # Comment accéder à la caisse McDonald's®  sur PC ?
