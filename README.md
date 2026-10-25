@@ -1,4 +1,4 @@
-# caisse enregistreuse McDonald's®
+# Caisse enregistreuse McDonald's®
 Ceci est une représentation bêta d'un logiciel style McDonald's®. Comme il est bêta, il y aura des changements très souvent (après, ça dépend de moi, si je code ou pas).
 
 # Comment accéder à la caisse McDonald's®  sur mobile ?
